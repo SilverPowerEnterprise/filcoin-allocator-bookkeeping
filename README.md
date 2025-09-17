@@ -39,3 +39,30 @@ This repository operates under a Code of Conduct to ensure a respectful and prod
 ---
 
 We look forward to facilitating an efficient and transparent process for DataCap allocations within the Filecoin Plus program. Thank you for your interest and participation.
+
+
+### pathway 
+SilverPower is a manual pathway, we will go through manual due diligence case by case.
+
+### contact info
+mail: chenzhuo@sliverpower.cn ; sp@sliverpower.cn 
+Slack: @zhuo
+
+### policy  &  risk mitigation
+As a new allocator, we choose manual pathway that means more careful due diligence is needed.
+Based on the application submitted , first I will verify the authentication of the existing information about the client. Then I will ask additional information or ask for explanation for the discrepancy part if necessary. If the information in application is not clear enough, then more questions will be posted for further investigation:
+1.can you send the screenshot of business license to allocator’s mail address(for new client); can you share the previous link of application for verification(for old client)
+2.Can you provide any proof of data size?
+3.Are you a data preparer? If yes, can you describe the process and the tooling used for data preparation in details. If not, how will choose a data preparer to make sure the data is processed in a standardized way.
+4.How much do you know IPNI? How much do you know about Spark retrieval?
+5.How can you assure the retrieval rate is above the bar of 75%? If SPs selected can not meet the standard, as expected, what will you do?
+6. how will deal with CID sharing problem if occurred?
+7. how long will you finish sealing for one round？
+8. Is VPN allowed for SP?
+Ideally, all the back-and-forth messages between allocator and client will be performed directly on github publicly. If any privacy involved, like ID doc, proof of address etc., then those highly-sensitive audit proof will sent to governance team by email. Any discrepancy arises from the approval process, a meeting can be scheduled for clarification.
+
+### dispute resolution
+All the commnucation will be made open to the public, once any dispute occurred, then raise an issue in fil+ governance repo to have a discussion, fil+  governance officials may be invited to have a say.
+
+### audit plans
+I will provide the back-and-forth communication screenshots between allocator and client, including reasonable explanation and CID checker report improvement proof, retrieval results screenshot etc.
