@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1hhs5busu64hjomlf3u2ibe7v3qgkpk7idv3wrea",
   "Issue Number": "5",
+  "Client Contract Address": "f410fz574sgpenpscyv766yzr2q4cxwwgeux25bnderq",
   "Client": {
     "Name": "Shandong Chilong Film & Culture Media Co., Ltd.",
     "Region": "China",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2026-03-13 11:40:20.356743434 UTC",
+    "Validated By": "SilverPowerEnterprise",
     "Active": true,
-    "Updated At": "2026-03-12 13:49:30.984056193 UTC",
-    "Active Request ID": "",
+    "Updated At": "2026-03-13 11:40:20.356748764 UTC",
+    "Active Request ID": "4e37f594-e93d-41a9-b18c-43f0ec59a4b5",
     "On Chain Address": "f1hhs5busu64hjomlf3u2ibe7v3qgkpk7idv3wrea",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "4e37f594-e93d-41a9-b18c-43f0ec59a4b5",
+      "Request Type": "First",
+      "Created At": "2026-03-13 11:40:20.356751253 UTC",
+      "Updated At": "2026-03-13 11:40:20.356752121 UTC",
+      "Active": true,
+      "Allocation Amount": "1125899906842624 B",
+      "Signers": []
+    }
+  ]
 }
