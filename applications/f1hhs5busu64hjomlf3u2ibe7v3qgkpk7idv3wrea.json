@@ -36,11 +36,11 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-03-13 11:40:20.356743434 UTC",
+    "State": "Granted",
+    "Validated At": "2026-03-14 13:06:10.988592443 UTC",
     "Validated By": "SilverPowerEnterprise",
     "Active": true,
-    "Updated At": "2026-03-13 11:40:20.356748764 UTC",
+    "Updated At": "2026-03-14 13:06:10.988587906 UTC",
     "Active Request ID": "4e37f594-e93d-41a9-b18c-43f0ec59a4b5",
     "On Chain Address": "f1hhs5busu64hjomlf3u2ibe7v3qgkpk7idv3wrea",
     "Multisig Address": "false",
@@ -52,9 +52,18 @@
       "Request Type": "First",
       "Created At": "2026-03-13 11:40:20.356751253 UTC",
       "Updated At": "2026-03-13 11:40:20.356752121 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1125899906842624 B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "1125899906842624 B",
+      "Signers": [
+        {
+          "Github Username": "SilverPowerEnterprise",
+          "Signing Address": "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy",
+          "Created At": "2026-03-14 13:06:07.893000000 UTC",
+          "Message CID": "bafy2bzacea56545khfqph3bv72wtovcfaj2s7r2lqmno2irl3ddzwxv5l7vyq",
+          "Increase allowance CID": "bafy2bzacebmulhbzwaxzq5em3toosd4m6j74hi2bxmo6ymlaxxodop273mvpy"
+        }
+      ]
     }
   ]
 }
