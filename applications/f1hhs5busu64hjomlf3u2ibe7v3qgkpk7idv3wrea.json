@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2026-03-14 13:06:10.988592443 UTC",
+    "Validated At": "2026-03-15 02:29:41.598038776 UTC",
     "Validated By": "SilverPowerEnterprise",
     "Active": true,
-    "Updated At": "2026-03-14 13:06:10.988587906 UTC",
-    "Active Request ID": "4e37f594-e93d-41a9-b18c-43f0ec59a4b5",
+    "Updated At": "2026-03-15 02:29:41.598037928 UTC",
+    "Active Request ID": "0e6c9efd-354f-4c55-93c1-233eba5a473b",
     "On Chain Address": "f1hhs5busu64hjomlf3u2ibe7v3qgkpk7idv3wrea",
     "Multisig Address": "false",
     "edited": false
@@ -62,6 +62,38 @@
           "Created At": "2026-03-14 13:06:07.893000000 UTC",
           "Message CID": "bafy2bzacea56545khfqph3bv72wtovcfaj2s7r2lqmno2irl3ddzwxv5l7vyq",
           "Increase allowance CID": "bafy2bzacebmulhbzwaxzq5em3toosd4m6j74hi2bxmo6ymlaxxodop273mvpy"
+        }
+      ]
+    }
+  ],
+  "Storage Providers Change Requests": [
+    {
+      "ID": "4c15f108-9482-417f-8f22-ea389fca98c5",
+      "Created At": "2026-03-15 02:29:41.598020025 UTC",
+      "Updated At": "2026-03-15 02:29:41.598025666 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        1083688,
+        1084788,
+        1081439,
+        1082688,
+        1084868
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "SilverPowerEnterprise",
+          "Signing Address": "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy",
+          "Set Max Deviation CID": "bafy2bzaceaq4ykl3xoskb4ffdvwpbjwtxieslmmsb737uevqao72wy24gzhru",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacec6nijq3o2duk2oq5qh2eq47acgjbdtm6oyzri7tq7edj3qhgjcvc": [
+              "1083688",
+              "1084788",
+              "1081439",
+              "1082688",
+              "1084868"
+            ]
+          }
         }
       ]
     }
