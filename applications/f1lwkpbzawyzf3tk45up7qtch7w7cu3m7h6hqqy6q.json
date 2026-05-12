@@ -35,15 +35,25 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2026-05-12 12:09:10.133550141 UTC",
+    "Validated By": "SilverPowerEnterprise",
     "Active": true,
-    "Updated At": "2026-05-11 06:39:24.025104964 UTC",
-    "Active Request ID": "",
+    "Updated At": "2026-05-12 12:09:10.133554375 UTC",
+    "Active Request ID": "d52067aa-f15b-417a-b2c1-bef016b141cb",
     "On Chain Address": "f1lwkpbzawyzf3tk45up7qtch7w7cu3m7h6hqqy6q",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "d52067aa-f15b-417a-b2c1-bef016b141cb",
+      "Request Type": "First",
+      "Created At": "2026-05-12 12:09:10.133557090 UTC",
+      "Updated At": "2026-05-12 12:09:10.133558197 UTC",
+      "Active": true,
+      "Allocation Amount": "1125899906842624 B",
+      "Signers": []
+    }
+  ]
 }
