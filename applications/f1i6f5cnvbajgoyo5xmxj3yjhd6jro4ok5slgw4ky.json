@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-05-12 12:06:17.479031935 UTC",
+    "State": "Granted",
+    "Validated At": "2026-05-12 12:08:08.369471307 UTC",
     "Validated By": "SilverPowerEnterprise",
     "Active": true,
-    "Updated At": "2026-05-12 12:06:17.479037989 UTC",
+    "Updated At": "2026-05-12 12:08:08.369466353 UTC",
     "Active Request ID": "d235d653-4a92-45bb-b412-c5a4b534d789",
     "On Chain Address": "f1i6f5cnvbajgoyo5xmxj3yjhd6jro4ok5slgw4ky",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2026-05-12 12:06:17.479040180 UTC",
       "Updated At": "2026-05-12 12:06:17.479041399 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "2251799813685248 B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "SilverPowerEnterprise",
+          "Signing Address": "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy",
+          "Created At": "2026-05-12 12:08:04.059000000 UTC",
+          "Message CID": "bafy2bzacebo4vglfxfhncguaijk5jgujadzwgiropuv55mad5j3blups5j6xa"
+        }
+      ]
     }
   ]
 }
