@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1lwkpbzawyzf3tk45up7qtch7w7cu3m7h6hqqy6q",
+  "Issue Number": "14",
+  "Client": {
+    "Name": "LAMOST",
+    "Region": "China",
+    "Industry": "Environment",
+    "Website": "",
+    "Social Media": "http://www.lamost.org/dr10/v2.0/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) is a Chinese national scientific research facility operated by the National Astronomical Observatories, Chinese Academy of Sciences. It is a special reflecting Schmidt telescope with 4000 fibers in a field of view of 20 deg2 in the sky. Until July 2019, LAMOST has completed its pilot survey, which was launched in October 2011 and ended in June 2012, and the regular survey of the first seven years, which was initiated on September 2012[1-7]. In this data release, there are totally 10,431,197 low resolution spectra published, which satisfy the selection criteria that the LAMOST LRS General Catalog also used. The data products of this release can be available from the website http://dr10.lamost.org/v2.0/.\n\nGuoshoujing Telescope (the Large Sky Area Multi-Object Fiber Spectroscopic Telescope LAMOST) is a National Major Scientific Project built by the Chinese Academy of Sciences. Funding for the project has been provided by the National Development and Reform Commission. LAMOST is operated and managed by the National Astronomical Observatories, Chinese Academy of Sciences.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The data products of this release can be available from the website http://dr10.lamost.org/v2.0/、https://www.lamost.org/dr10/v1.0/",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.lamost.org/dr10/v1.0/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Asia other than Greater China, Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "- f03512458\n- f03512720\n- f03513151\n- f01084149\n- f03202108\n- f03239692\n- f03254235\n- f03321072\n- f03513182\n- f03524179\n- f03528925",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": ""
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "20PiB",
+    "Single Size Dataset": "2.5PiB",
+    "Replicas": 8,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2026-05-12 12:11:07.079153783 UTC",
+    "Validated By": "SilverPowerEnterprise",
+    "Active": true,
+    "Updated At": "2026-05-12 12:11:07.079148594 UTC",
+    "Active Request ID": "d52067aa-f15b-417a-b2c1-bef016b141cb",
+    "On Chain Address": "f1lwkpbzawyzf3tk45up7qtch7w7cu3m7h6hqqy6q",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "d52067aa-f15b-417a-b2c1-bef016b141cb",
+      "Request Type": "First",
+      "Created At": "2026-05-12 12:09:10.133557090 UTC",
+      "Updated At": "2026-05-12 12:09:10.133558197 UTC",
+      "Active": false,
+      "Allocation Amount": "1125899906842624 B",
+      "Signers": [
+        {
+          "Github Username": "SilverPowerEnterprise",
+          "Signing Address": "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy",
+          "Created At": "2026-05-12 12:11:04.620000000 UTC",
+          "Message CID": "bafy2bzacecc2rylzissdln4alenrqggsr7tlacd665tzht24loov3pmjua5vq"
+        }
+      ]
+    }
+  ]
+}
